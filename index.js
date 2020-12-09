@@ -74,3 +74,4 @@ function init() {
     writeToFile("README.md", response);
   });
 }
+init();
