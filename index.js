@@ -59,3 +59,10 @@ const questions = [
     name: "Email",
   },
 ];
+function writeToFile(fileName, data) {
+  writeFile(fileName, data, (err) => {
+    if (err) {
+      throw err;
+    }
+  });
+}
