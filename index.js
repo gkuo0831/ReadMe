@@ -66,3 +66,11 @@ function writeToFile(fileName, data) {
     }
   });
 }
+
+function init() {
+  prompt(questions).then((answers) => {
+    const response = generateMarkdown(answers);
+    console.log(answers);
+    writeToFile("README.md", response);
+  });
+}
