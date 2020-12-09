@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/gkuo0831/ReadMe/issues"
   },
-  "homepage": "https://github.com/gkuo0831/ReadMe#readme"
+  "homepage": "https://github.com/gkuo0831/ReadMe#readme",
+  "devDependencies": {}
 }
