@@ -14,5 +14,14 @@
     "fs": "0.0.1-security",
     "inquirer": "^6.5.2",
     "util": "^0.12.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkuo0831/ReadMe.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gkuo0831/ReadMe/issues"
+  },
+  "homepage": "https://github.com/gkuo0831/ReadMe#readme"
 }
